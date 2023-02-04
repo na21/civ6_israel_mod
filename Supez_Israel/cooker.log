@@ -1,0 +1,22 @@
+Starting AssetCooker...
+Argument '--shaders' has been deprecated and is no longer used.
+XLP cook starting...
+C:\Users\nissa\OneDrive\Desktop\Supez_Israel\Supez_Israel\XLPs\UILeaders.xlp
+Opened output file: C:\Users\nissa\OneDrive\Documents\My Games\Sid Meier's Civilization VI\Mods\Supez_Israel\Platforms\MacOS\BLPs/UILeaders.blp    For XLP: 'C:\Users\nissa\OneDrive\Desktop\Supez_Israel\Supez_Israel\XLPs\UILeaders.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting 'UILeaders'
+Loading error asset: (UIErrorTexture)
+Replacing asset: (LEADER_JASPER_KITTY_NEUTRAL) in entry (LEADER_JASPER_KITTY_NEUTRAL) with error asset
+The following 1 entities had errors:
+Textures: 1
+    LEADER_JASPER_KITTY_NEUTRAL
+
+****** Log from Texture: 'LEADER_JASPER_KITTY_NEUTRAL' (ERRORS!!) ********
+--------------
+I/O error reading XML: C:\Users\nissa\OneDrive\Desktop\Supez_Israel\Supez_Israel/Textures/LEADER_JASPER_KITTY_NEUTRAL.tex
+Load finished for: 'UILeaders' in 0.001 seconds
+Cook finished for: 'UILeaders' in 0.001 seconds
+Disk write finished for: 'UILeaders' in 0.058 seconds
+Cleanup finished for: 'UILeaders' in 0.000 seconds
+XLP cook completed with success.
+Cook completed in 0.067 seconds
